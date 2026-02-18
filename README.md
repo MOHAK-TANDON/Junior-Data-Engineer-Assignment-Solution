@@ -1,5 +1,7 @@
 # Junior Data Engineer Assignment — README
 
+The project can be found on : https://github.com/MOHAK-TANDON/Junior-Data-Engineer-Assignment-Solution/
+
 **Platform:** Databricks (PySpark + Unity Catalog)
 **Author:** Mohak Tandon
 **Date:** 18 February 2026
